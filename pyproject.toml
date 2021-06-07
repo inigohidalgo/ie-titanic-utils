@@ -7,4 +7,6 @@ module = "ie_utils"
 author = "Inigo Hidalgo"
 author-email = "inigo.hidalgo@student.ie.edu"
 home-page = "https://inigohidalgo.me"
-
+requires=[
+    "pandas",
+]
