@@ -10,3 +10,9 @@ home-page = "https://inigohidalgo.me"
 requires=[
     "pandas",
 ]
+
+[tool.flit.metadata.requires-extra]
+
+dev = [
+    "black",
+]
