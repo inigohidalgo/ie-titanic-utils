@@ -1,2 +1,2 @@
-. # install current directory
+. # install current directory, installs from pyproject.toml
 flask

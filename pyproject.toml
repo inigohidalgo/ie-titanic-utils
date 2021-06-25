@@ -9,6 +9,7 @@ author-email = "inigo.hidalgo@student.ie.edu"
 home-page = "https://inigohidalgo.me"
 requires=[
     "pandas",
+    # "flask", # instead, use requirements.txt since technically the library does not require flask
 ]
 
 [tool.flit.metadata.requires-extra]
